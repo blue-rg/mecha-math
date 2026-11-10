@@ -1,0 +1,2 @@
+firebase-app-compat.js, firebase-database-compat.js: Firebase JavaScript SDK 9.23.0 (npm "firebase"), Apache License 2.0, Copyright Google LLC.
+https://github.com/firebase/firebase-js-sdk/blob/master/LICENSE
